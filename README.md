@@ -264,9 +264,6 @@ The MIT License allows you to:
 
 **Maâmar M** - AI & Machine Learning Enthusiast
 
-- 📧 Email: <maamar.m@gmail.com>
-- 🔗 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
 ---
 
 ## 📞 Questions & Support
